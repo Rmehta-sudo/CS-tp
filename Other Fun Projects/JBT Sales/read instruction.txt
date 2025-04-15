@@ -1,0 +1,23 @@
+Instructions for using the project:
+
+1) input data : Open MySql wokbench and login with password. Then minimisei the screen. Do not shut it down. Now go to JBT sales folder. Double click RunThis.
+You will get a command prompt. 1 for input data... now input everything  
+QUESTION : I FORGOT EXACT GRADE NAME... WHAT TO DO? 
+Well after following the above instructions enter the wrong data in the grade name ... you will get a list of the names and select and Copy then .
+
+QUESTION: I HAVE SOME COMMENTS , WHAT TO DO? 
+SOLUTION: simply after double clicking runThis, instead of 1, type 3.
+Enter vomments then .
+
+HOW TO VIEW THE DATA OR PARTICULAR DATATABBLES?
+Solution. OPEN MYSQL WORKBENCH.
+Login with password.
+Then click in file tab . 
+Then click open sql query file. 
+Now you need to find the files on the computer if they are not already shown to you ... location is in onedrive _ desktopJBT sales _ queries.
+Then choose the query file . Each file has comments on how to use.
+After that run it be clicking the query lightning button.
+
+How to extract to excel?
+After clicking the lightning button ... go to the table section and click on the export button . ( its the first after Export import)
+Then give it the file name and save it in excel files f9lder in JBT SALES
