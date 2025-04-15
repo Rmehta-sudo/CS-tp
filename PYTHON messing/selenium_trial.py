@@ -47,8 +47,8 @@ number = driver2.find_element(By.CLASS_NAME,"wCgoWb").text
 driver2.quit()
 time.sleep(0.3)  ##
 
-username = "1902030620132"
-password = "school@103011"
+username = "----"
+password = "------"
 
 driver.find_element(By.ID,"user_name2").send_keys(username)
 driver.find_element(By.ID,"user_pass2").send_keys(password)
